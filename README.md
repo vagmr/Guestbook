@@ -16,4 +16,6 @@ Time is so short and long, we cannot escape it, nor do we need to escape it.
  ## 6-2
  对未来真正的慷慨，是把一切都献给现在。
  ![图片](https://source.unsplash.com/960x640/?moment)
- 
+ ## 6-3
+ 愿那少年，此志无双
+ ![图片](https://source.unsplash.com/960x640/?壮志凌云)
