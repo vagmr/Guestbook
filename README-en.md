@@ -15,4 +15,7 @@ The road home is the same way you came. Wherever we come from, that's where we s
 True generosity toward the future lies in giving everything to the present.
 
 ![图片](https://source.unsplash.com/960x640/?moment)
+## 6-3
+May the young have extraordinary ambitions
 
+![图片](https://source.unsplash.com/960x640/?belief)
