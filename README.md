@@ -10,12 +10,15 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 Time is so short and long, we cannot escape it, nor do we need to escape it.
 
 岁月是那么短长，我们无法逃避，也无需逃避
- ## 6-1
+## 6-1
  来路是归途，每个人，从哪里来，就要会哪里去。
  ![岁月](https://source.unsplash.com/960x640/?time)
- ## 6-2
+## 6-2
  对未来真正的慷慨，是把一切都献给现在。
  ![图片](https://source.unsplash.com/960x640/?moment)
- ## 6-3
+## 6-3
  愿那少年，此志无双
  ![图片](https://source.unsplash.com/960x640/?Hero&courage&man)
+## 6-4
+ 除非我不想赢，否则没人能让我输。
+  ![图片](https://source.unsplash.com/960x640/?Confidence&effort&determination)
