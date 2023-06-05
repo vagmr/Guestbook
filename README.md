@@ -1,5 +1,5 @@
 # Guestbook
-Welcome to my guestbook! We would love to hear your thoughts, comments, and feedback about our website or anything else you would like to share. Please feel free to leave a message below.</br>
+Welcome to my guestbook! We would love to hear your thoughts, comments, and feedback about our website or anything else you would like to share. Please feel free to leave a message below.
 
 欢迎来到我的留言簿！我们非常希望听到您对我们网站的看法、评论和反馈，也欢迎您分享其他想法。请在下面留言：
 
@@ -26,40 +26,42 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 
 ## June 1st | 6月1日
 
-### Every person's origin is their destination, where they came from is where they should return.
+### 来路是归途，每个人，从哪里来，就要会哪里去。
 >
-> 来路是归途，每个人，从哪里来，就要会哪里去。
+> Every person's origin is their destination, where they came from is where they should return.
+
+`来路是归途，每个人，从哪里来，就要会哪里去。`<br>
 
 ![time image](https://source.unsplash.com/960x640/?time)
 
 ## June 2nd | 6月2日
 
-### True generosity towards the future is to give everything to the present.
+### 对未来真正的慷慨，是把一切都献给现在。
 >
-> 对未来真正的慷慨，是把一切都献给现在。
+> True generosity towards the future is to give everything to the present.
 
 ![moment image](https://source.unsplash.com/960x640/?moment)
 
 ## June 3rd | 6月3日
 
-### May the youth be unparalleled in their ambition.
+### 愿那少年，此志无双。
 >
-> 愿那少年，此志无双。
+> May the youth be unparalleled in their ambition.
 
 ![hero image](https://source.unsplash.com/960x640/?Hero&courage&man)
 
 ## June 4th | 6月4日
 
-### No one can make me lose unless I don't want to win.
+### 除非我不想赢，否则没人能让我输。
 >
-> 除非我不想赢，否则没人能让我输。
+> No one can make me lose unless I don't want to win.
 
 ![confidence image](https://source.unsplash.com/960x640/?Confidence&effort&determination)
 
 ## June 5th | 6月5日
 
-### It's strange to sing about dreams when one can't even express emotions like joy, anger, sorrow, and happiness.
+### 明明连喜怒哀乐都无法灵活运用，却肆意讴歌梦想什么的，这很怪吗？
 >
-> 明明连喜怒哀乐都无法灵活运用，却肆意讴歌梦想什么的，这很怪吗？
+> It's strange to sing about dreams when one can't even express emotions like joy, anger, sorrow, and happiness.
 
 ![dream image](https://source.unsplash.com/960x640/?梦想&追逐)
