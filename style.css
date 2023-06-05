@@ -11,3 +11,12 @@ a {
 a:hover {
     color: #c81623;
 }
+
+#guestbook{
+  margin:10px 0px;
+  text-align:center;
+}
+
+h1 a{
+  display:none;
+}
