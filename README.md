@@ -2,7 +2,6 @@
 <html>
 <head>
 <style>
-<style>
   body {
     background-color: rgb(215, 210, 191);
   }
