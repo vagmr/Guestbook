@@ -40,6 +40,8 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 >
 > True generosity towards the future is to give everything to the present.
 
+`对未来真正的慷慨，是把一切都献给现在。`<br>
+
 ![moment image](https://source.unsplash.com/960x640/?moment)
 
 ## June 3rd | 6月3日
@@ -48,6 +50,8 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 >
 > May the youth be unparalleled in their ambition.
 
+`愿那少年，此志无双。`<br>
+
 ![hero image](https://source.unsplash.com/960x640/?Hero&courage&man)
 
 ## June 4th | 6月4日
@@ -55,6 +59,7 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 ### 除非我不想赢，否则没人能让我输。
 >
 > No one can make me lose unless I don't want to win.
+> `除非我不想赢，否则没人能让我输。`<br>
 
 ![confidence image](https://source.unsplash.com/960x640/?Confidence&effort&determination)
 
@@ -63,5 +68,6 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 ### 明明连喜怒哀乐都无法灵活运用，却肆意讴歌梦想什么的，这很怪吗？
 >
 > It's strange to sing about dreams when one can't even express emotions like joy, anger, sorrow, and happiness.
+> `明明连喜怒哀乐都无法灵活运用，却肆意讴歌梦想什么的，这很怪吗？`<br>
 
 ![dream image](https://source.unsplash.com/960x640/?梦想&追逐)
