@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  body {
-    background-color: rgb(215, 210, 191);
-  }
-</style>
-</head>
-<body>
-
-
+<div style=" background-color: rgb(215 210 191);">
 # Guestbook
 Welcome to my guestbook! We would love to hear your thoughts, comments, and feedback about our website or anything else you would like to share. Please feel free to leave a message below.
 
@@ -86,5 +75,5 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 `明明连喜怒哀乐都无法灵活运用，却肆意讴歌梦想什么的，这很怪吗？`<br>
 
 ![dream image](https://source.unsplash.com/960x640/?梦想&追逐)
- </body> 
- </html>
+  
+</div>
