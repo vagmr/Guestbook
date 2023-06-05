@@ -4,9 +4,9 @@
 
 # Guestbook
 
-Welcome to my guestbook! We would love to hear your thoughts, comments, and feedback about our website or anything else you would like to share. Please feel free to leave a message below.
+This is a message board used to record the footsteps of my life. You are welcome to read and leave your own thoughts.
 
-欢迎来到我的留言簿！我们非常希望听到您对我们网站的看法、评论和反馈，也欢迎您分享其他想法。请在下面留言：
+欢迎来到我的留言簿！我非常希望听到您的看法、评论和反馈，也欢迎您分享其他想法。
 
 [点击这里查看英文版](./README-en.md)
 
