@@ -1,7 +1,7 @@
 <head>
   <link rel="stylesheet" href="style.css">
 </head>
-</br>
+# 你好世界
 
 # Guestbook
 
@@ -27,7 +27,7 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
   
 `Time is so short and long, we cannot escape it, nor do we need to escape it.`</br>
 
-`岁月是那么短长，我们无法逃避，也无需逃避。`
+岁月是那么短长，我们无法逃避，也无需逃避。
   
 </div>
 
