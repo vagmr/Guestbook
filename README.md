@@ -9,7 +9,7 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 
 Time is so short and long, we cannot escape it, nor do we need to escape it.
 
-### 岁月是那么短长，我们无法逃避，也无需逃避
+岁月是那么短长，我们无法逃避，也无需逃避
 ## 6-1
  ### 来路是归途，每个人，从哪里来，就要会哪里去。
  ![岁月](https://source.unsplash.com/960x640/?time)
