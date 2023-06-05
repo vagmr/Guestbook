@@ -1,3 +1,9 @@
+<style>
+  body {
+    background-color: rgb(215, 210, 191);
+  }
+</style>
+
 # Guestbook
 Welcome to my guestbook! We would love to hear your thoughts, comments, and feedback about our website or anything else you would like to share. Please feel free to leave a message below.
 
