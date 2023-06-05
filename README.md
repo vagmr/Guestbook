@@ -1,7 +1,6 @@
 <head>
   <link rel="stylesheet" href="style.css">
 </head>
-# 你好世界
 
 # Guestbook
 
@@ -25,10 +24,9 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 
 <div style="background-color:#f3f4f6;border-radius:5px;padding:10px;">
   
-`Time is so short and long, we cannot escape it, nor do we need to escape it.`</br>
+`Time is so short and long, we cannot escape it, nor do we need to escape it.`
 
 岁月是那么短长，我们无法逃避，也无需逃避。
-  
 </div>
 
 ## June 1st | 6月1日
