@@ -22,3 +22,6 @@ Time is so short and long, we cannot escape it, nor do we need to escape it.
 ## 6-4
  除非我不想赢，否则没人能让我输。
   ![图片](https://source.unsplash.com/960x640/?Confidence&effort&determination)
+## 6-5 
+明明连喜怒哀乐都无法灵活运用，却肆意讴歌梦想什么的，这很怪吗？
+![图片](https://source.unsplash.com/960x640/?梦想&追逐)
