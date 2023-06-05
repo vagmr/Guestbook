@@ -7,7 +7,7 @@ Welcome to my guestbook! We would love to hear your thoughts, comments, and feed
 
 
 ---
-[点击这里查看其他版](./README-OT.md)
+[点击这里查看其他版](./README-OT.MD)
 
 # Time Notes | 时间浅笺
 
@@ -20,6 +20,7 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 <div style="background-color:#f3f4f6;border-radius:5px;padding:10px;">
   
 `Time is so short and long, we cannot escape it, nor do we need to escape it.`<br>
+>
 > 岁月是那么短长，我们无法逃避，也无需逃避。
   
 </div>
