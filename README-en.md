@@ -23,3 +23,7 @@ May the young have extraordinary ambitions
 No one can make me lose unless I don't want to win.
 
 ![图片](https://source.unsplash.com/960x640/?Confidence&effort&determination&dream)
+## 6-5
+Is it strange to sing about dreams and such, even though one cannot flexibly use emotions such as joy, anger, sorrow, and happiness?
+
+![图片](https://source.unsplash.com/960x640/?追梦&信念)
