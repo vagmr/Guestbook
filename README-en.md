@@ -29,3 +29,7 @@ Time is both short and long; we cannot escape it, nor do we need to escape it. T
 ### Is it strange to sing about dreams and such, even though one cannot flexibly use emotions such as joy, anger, sorrow, and happiness?
 
 ![图片](https://source.unsplash.com/960x640/?追梦&信念)
+## 6-6
+### Someday, you will leave this world, so live your life and make memories worth remembering.
+
+![图片](https://source.unsplash.com/960x640/?追梦&珍惜)
