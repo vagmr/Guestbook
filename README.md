@@ -79,3 +79,12 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 
 ![dream image](https://source.unsplash.com/960x640/?梦想&追逐)
 
+## June 6th | 6月6日
+
+### 总有一天，你会离开这个世界，就活出你的人生，这回忆值得你铭记
+>
+> Someday, you will leave this world, so live your life and make memories worth remembering.
+
+`总有一天，你会离开这个世界，就活出你的人生，这回忆值得你铭记`<br>
+
+![dream image](https://source.unsplash.com/960x640/?珍惜时间&追逐梦想)
