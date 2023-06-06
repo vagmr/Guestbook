@@ -89,6 +89,8 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 
 <div style="background-color:#ec8bbd;border-radius:5px;padding:10px;color:black;">
 意思是，每个人都会有一天离开这个世界，所以要好好地活出自己的人生，留下值得回忆的经历和记忆。这些回忆将成为我们离开这个世界后留给世界的遗产，也是我们自己的宝贵财富。因此，我们应该珍惜每一天，充分利用时间，去追求自己的梦想和目标，让自己的人生充满意义和价值。
-</div></br>
+</div>
+
+---
 
 ![dream image](https://source.unsplash.com/960x640/?珍惜时间&追逐梦想)
