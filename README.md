@@ -95,3 +95,20 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 ---
 
 ![dream image](https://source.unsplash.com/960x640/?珍惜时间&追逐梦想)
+
+## June 7th | 6月7日
+
+### 活在当下，珍惜眼前，不要为过去或未来而忧虑
+>
+> Live in the present, cherish the moment, and don’t worry about the past or the future.
+
+`活在当下，珍惜眼前，不要为过去或未来而忧虑`<br>
+
+---
+<div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;">
+很多人常常为了过去的遗憾或未来的不确定而感到焦虑和沮丧，忽略了当下的美好和机会。其实，我们无法改变过去，也无法预知未来，唯一能掌握的就是现在。我们应该把精力和注意力集中在当下，珍惜眼前的人和事，把握每一个瞬间，让自己的生活更加充实和快乐。只有活在当下，才能真正享受生活的乐趣，也才能为自己的未来打下坚实的基础
+</div>
+
+---
+
+![dream image](https://source.unsplash.com/960x640/?珍惜时间&追逐梦想)
