@@ -132,4 +132,4 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 
 ---
 
-<button type="button">[点击这里查看其他版](./README-OT.MD)</button>
+<button type="button">[下一页](./README-OT.MD)</button>
