@@ -112,3 +112,21 @@ Welcome to my time notes! Here, we share our thoughts and reflections on the pas
 ---
 
 ![dream image](https://source.unsplash.com/960x640/?time&珍视)
+
+## June 8th | 6月8号
+
+### 永远不要觉得自己很累，总有人比你更累
+>
+> Never think that you are tired, there is always someone who is more tired than you.
+
+`永远不要觉得自己很累，总有人比你更累`<br>
+
+---
+<div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;">
+不要抱怨自己很累或者觉得自己的生活很辛苦，因为总会有比你更辛苦、更累的人存在。
+</div>
+
+---
+
+![dream image](https://source.unsplash.com/960x640/?坚持&毅力)
+
