@@ -1,0 +1,14 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # 每天22点执行
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run Python script
+        run: python /path/to/your/script.py
