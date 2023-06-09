@@ -2,14 +2,15 @@ from github import Github
 import requests
 
 # 创建GitHub对象
-g = Github("your_access_token")
+g = Github("access_token")
 
 # 获取仓库和文件信息
-repo = g.get_repo("your_repository")
-file = repo.get_contents("your_file_path")
+repo = g.get_repo("your_username/your_repository")
+file_path = "Guestbook/script/your_file_name.py" # 实际的脚本路径
+file = repo.get_contents(file_path)
 
-# 从文件中获取名言
-quote = file.decoded_content.decode("utf-8").strip()
+# 运行脚本
+exec(file.decoded_content.decode('utf-8'))
 
 # 图片链接
 image_url = "https://source.unsplash.com/960x640/?perseverance&victory"
