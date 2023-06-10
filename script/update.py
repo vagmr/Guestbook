@@ -15,7 +15,7 @@ g = Github("your_access_token")
 
 # 获取仓库和文件信息
 repo = g.get_repo("your_username/your_repository")
-file_path = "Guestbook/script/your_file_name.md" # 修改为实际的文件路径
+file_path = "Guestbook/script/your_file_name.md" 
 file = repo.get_contents(file_path)
 
 # 随机获取一条名言
