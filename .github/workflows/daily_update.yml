@@ -13,6 +13,6 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.9' # 根据您的 Python 版本选择，例如 '3.7' 或 '3.8'
+          python-version: '3.9' 
       - name: Run Python script
-        run: python Guestbook/script/update.py # 修改为实际的脚本路径
+        run: python Guestbook/script/update.py 
