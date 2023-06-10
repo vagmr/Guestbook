@@ -18,3 +18,19 @@
 ---
 
 ![dream image](https://source.unsplash.com/960x640/?perseverance&victory)
+## June 10th | 6月10号
+
+### 枯萎的向日葵是抬不起头看太阳的
+>
+> The withered sunflower cannot lift its head to look at the sun.
+
+`枯萎的向日葵是抬不起头看太阳的`<br>
+
+---
+<div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;">
+一个人或事物失去了生命力或精神，无法再迎接挑战或面对困难。就像枯萎的向日葵无法抬起头来看太阳一样，失去了生命力的人或事物也无法再面对生活中的挑战和困难。
+</div>
+
+---
+
+![dream image](https://source.unsplash.com/960x640/?Sunflower&victory)
