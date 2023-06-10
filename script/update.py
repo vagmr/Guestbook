@@ -14,8 +14,8 @@ params = {
 g = Github("your_access_token")
 
 # 获取仓库和文件信息
-repo = g.get_repo("your_username/your_repository")
-file_path = "Guestbook/script/your_file_name.md" 
+repo = g.get_repo("vagmr/Guestbook")
+file_path = "Guestbook/README2.md" 
 file = repo.get_contents(file_path)
 
 # 随机获取一条名言
