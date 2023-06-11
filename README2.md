@@ -34,3 +34,21 @@
 ---
 
 ![dream image](https://source.unsplash.com/960x640/?Sunflower&victory)
+## June 11th | 6月11号
+
+### 没有耐心的种子，不可能有芬芳的花朵
+>
+> Without patient seeds, there can be no fragrant flowers.
+
+没有耐心的种子，不可能有芬芳的花朵`<br>
+
+---
+<div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;">
+成功往往需要耐心和坚持。就像种子需要经过一段时间的成长才能开出花朵一样，我们也需要付出持续的努力和耐心，才能取得成功和收获美好的果实。如果我们没有耐心的种子，那么我们的计划和目标也不可能如愿以偿。
+</div>
+
+---
+
+![image](https://github.com/vagmr/Guestbook/assets/77198027/0f41ee2d-b93f-4899-93d1-93c225c110fb)
+
+
