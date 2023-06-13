@@ -40,7 +40,7 @@
 >
 > Without patient seeds, there can be no fragrant flowers.
 
-没有耐心的种子，不可能有芬芳的花朵`<br>
+`没有耐心的种子，不可能有芬芳的花朵`<br>
 
 ---
 <div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;">
@@ -56,7 +56,7 @@
 >
 > In the hourglass of time, the flowing sand represents the passing of time. In the faint sandalwood scent, the slowly burning is the passing of years.
 
-没有耐心的种子，不可能有芬芳的花朵`<br>
+`时光的沙漏里，细沙流走的是光阴。淡淡檀香里，袅袅燃尽的是岁月`<br>
 
 ---
 <div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;">
@@ -66,4 +66,23 @@
 ---
 
 ![dream image](https://source.unsplash.com/960x640/?岁月&沙漏)
+
+## June 13th | 6月13号
+
+### 宁鸣而生，不默而死
+>
+> Better to speak up and live, than to remain silent and die.
+
+`宁鸣而生，不默而死`<br>
+
+---
+<div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;">
+勇敢地表达自己的想法和意见，积极地生活，不要被困难和挫折击倒，而是要坚定地向前迈进。
+</div>
+
+---
+
+
+![image](https://github.com/vagmr/Guestbook/assets/77198027/b5770d2f-6d8a-44b0-bc53-c0c2afd1c3d9)
+
 
