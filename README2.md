@@ -50,5 +50,20 @@
 ---
 
 ![image](https://github.com/vagmr/Guestbook/assets/77198027/0f41ee2d-b93f-4899-93d1-93c225c110fb)
+## June 12th | 6月12号
 
+### 时光的沙漏里，细沙流走的是光阴。淡淡檀香里，袅袅燃尽的是岁月
+>
+> In the hourglass of time, the flowing sand represents the passing of time. In the faint sandalwood scent, the slowly burning is the passing of years.
+
+没有耐心的种子，不可能有芬芳的花朵`<br>
+
+---
+<div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;">
+时间像沙漏里的细沙一样流逝，而岁月则像燃烧的檀香一样逐渐消逝。
+</div>
+
+---
+
+![dream image](https://source.unsplash.com/960x640/?岁月&沙漏)
 
