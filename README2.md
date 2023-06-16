@@ -84,5 +84,30 @@
 
 
 ![image](https://github.com/vagmr/Guestbook/assets/77198027/b5770d2f-6d8a-44b0-bc53-c0c2afd1c3d9)
+## June 14th | 6月14号
+
+### 成功并不是终点，失败也不是致命的：重要的是继续前进的勇气。
+
+>
+>"Success is not final, failure is not fatal: It is the courage to continue that counts."
+`- Winston Churchill`<br>
+---
+<div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;"> 成功不是终点，失败也不是致命的：真正重要的是继续前进的勇气。 </div>
+---
+![dream image](https://source.unsplash.com/960x640/?坚持&勇气)
+
+## June 15th | 6月15号
+### 在你热爱的道路上自信的走下去
+>
+>"The only way to do great work is to love what you do."
+`- Steve Jobs`<br>
+
+---
+<div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;"> 做出伟大的工作的唯一途径就是热爱自己所做的事情。 </div>
+---
+
+![dream image](https://source.unsplash.com/960x640/?热爱&前行)
+
+
 
 
