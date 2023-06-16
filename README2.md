@@ -62,7 +62,6 @@
 <div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;">
 时间像沙漏里的细沙一样流逝，而岁月则像燃烧的檀香一样逐渐消逝。
 </div>
-
 ---
 
 ![dream image](https://source.unsplash.com/960x640/?岁月&沙漏)
