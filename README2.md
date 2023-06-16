@@ -107,7 +107,9 @@
 `- Steve Jobs`<br>
 
 ---
+
 <div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;"> 做出伟大的工作的唯一途径就是热爱自己所做的事情。 </div>
+
 ---
 
 ![dream image](https://source.unsplash.com/960x640/?热爱&前行)
