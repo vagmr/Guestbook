@@ -114,6 +114,20 @@
 
 ![dream image](https://source.unsplash.com/960x640/?热爱&前行)
 
+## June 16th | 6月16号
+### 成功的关键在于我们是否愿意去做那些失败者不愿意做的事情。
+>
+>"The key to success lies in whether we are willing to do the things that losers are not willing to do."
+`—— 约翰·C·麦克斯韦`<br>
+`成功的关键在于我们是否愿意去做那些失败者不愿意做的事情。`<br>
+---
+
+<div style="background-color:#90ccd9;border-radius:5px;padding:10px;color:black;"> 做出伟大的工作的唯一途径就是热爱自己所做的事情。 </div>
+
+---
+
+![dream image](https://source.unsplash.com/960x640/?成功&前行)
+
 
 
 
