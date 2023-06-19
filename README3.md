@@ -17,7 +17,7 @@
 ### 时刻保持谦虚和学习心态，不断进步，才能在竞争激烈的社会中立于不败之地。
 >"Always stay humble and continue learning to make progress, so that you can stand undefeated in this highly competitive society."
 >`—— 南希·彭罗斯`<br>
-`- 时刻保持谦虚和学习心态，不断进步，才能在竞争激烈的社会中立于不败之地。`<br>
+ `- 时刻保持谦虚和学习心态，不断进步，才能在竞争激烈的社会中立于不败之地。`<br>
 
 ---
 
