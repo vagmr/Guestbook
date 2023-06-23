@@ -6,7 +6,7 @@
 ### 成功的秘诀在于找到一件自己热爱的事情，并在这个过程中变得更好。
 >
 >"The secret to success is to find something you love and become better at it through the process."
-` —— 约翰·汉密尔顿`<br>
+>—— 约翰·汉密尔顿`
 `- 成功的秘诀在于找到一件自己热爱的事情，并在这个过程中变得更好。`<br>
 
 ---
